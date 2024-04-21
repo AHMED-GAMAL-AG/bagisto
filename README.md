@@ -36,10 +36,6 @@
     <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/cn.svg" alt="Chinese" width="24" height="24">
 </p>
 
-<a href="https://www.youtube.com/watch?v=OHbte7hdxYU">
-    <img class="flag-img" src="https://raw.githubusercontent.com/bagisto/temp-media/master/bagisto-featured.png" alt="Chinese" width="100%">
-</a>
-
 # Introduction
 
 Bagisto is an opensource [laravel eCommerce](https://www.bagisto.com/) framework built on some of the hottest technologies such as [Laravel](https://laravel.com/) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org/) a progressive Javascript framework.
@@ -64,13 +60,10 @@ The power of headless laravel commerce now comes to Bagisto enabling you to expe
 
 ## Vue Storefront
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/vue.png)
 
-Vue Storefront 2 integration for Bagisto: [https://github.com/bagisto/vuestorefront](https://github.com/bagisto/vuestorefront)
 
 ## Next.js Commerce
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/next.png)
 
 Develop and deploy your next headless commerce storefronts with Next JS and Bagisto: [https://github.com/bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
 
@@ -78,15 +71,11 @@ Develop and deploy your next headless commerce storefronts with Next JS and Bagi
 
 Revolutionize Your Online Store with Bagisto's Open Source eCommerce Mobile 
 
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/git-hub-banner.png)
-
 Mobile eCommerce powered by Flutter & Laravel: https://github.com/bagisto/opensource-ecommerce-mobile-app
 
 # AI Powered eCommerce
 
 You can integrate popular large language models like GPT, BERT, Llama etc. to build [AI-powered eCommerce](https://bagisto.com/en/extensions/laravel-chatbot-using-openai-chatgpt-llm/) applications with bagisto. Some of the popular use cases where you can make use of LLMs to build AI apps are chatbots, automated product descriptions, customer support, search and recommendations. 
-
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/ai_powered_ecommerce.png)
 
 You can incorporate LLM API with your bagisto applications to send and receive queries and ensure proper error handling and rate limiting to prevent overuse of the API
 
@@ -97,8 +86,6 @@ Build [decentralised applications](https://bagisto.com/en/services/blockchain-co
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/decentralised-ecommerce.png)
 
 # Commerce For Every Need
-
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/every-need.png)
 
 With Bagisto, you can easily create use cases for various commerce needs like Marketplaces, PWA, Native Mobile Apps, Multi-Tenants systems, Blockchain and many more.
 
