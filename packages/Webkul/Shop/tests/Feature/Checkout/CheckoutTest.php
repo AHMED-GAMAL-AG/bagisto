@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Mail;
-use Webkul\Admin\Mail\Order\CreatedNotification as AdminOrderCreatedNotification;
+use Webkul\Administration\Mail\Order\CreatedNotification as AdminOrderCreatedNotification;
 use Webkul\Checkout\Models\Cart;
 use Webkul\Checkout\Models\CartAddress;
 use Webkul\Checkout\Models\CartItem;

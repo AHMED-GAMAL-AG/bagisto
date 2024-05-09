@@ -205,7 +205,8 @@ return [
         /**
          * Webkul package service providers.
          */
-        Webkul\Admin\Providers\AdminServiceProvider::class,
+        // Webkul\Admin\Providers\AdminServiceProvider::class,
+        Webkul\Administration\Providers\AdministrationServiceProvider::class,
         Webkul\Attribute\Providers\AttributeServiceProvider::class,
         Webkul\CartRule\Providers\CartRuleServiceProvider::class,
         Webkul\CatalogRule\Providers\CatalogRuleServiceProvider::class,

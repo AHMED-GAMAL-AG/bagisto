@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Mail;
-use Webkul\Admin\Mail\Customer\RegistrationNotification as AdminRegistrationNotification;
+use Webkul\Administration\Mail\Customer\RegistrationNotification as AdminRegistrationNotification;
 use Webkul\Core\Models\CoreConfig;
 use Webkul\Shop\Mail\Customer\EmailVerificationNotification;
 use Webkul\Shop\Mail\Customer\RegistrationNotification as ShopRegistrationNotification;

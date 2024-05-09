@@ -62,7 +62,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Webkul\\Admin\\": "packages/Webkul/Admin/src",
+            "Webkul\\Administration\\": "packages/Webkul/Administration/src",
             "Webkul\\Attribute\\": "packages/Webkul/Attribute/src",
             "Webkul\\CartRule\\": "packages/Webkul/CartRule/src",
             "Webkul\\CatalogRule\\": "packages/Webkul/CatalogRule/src",

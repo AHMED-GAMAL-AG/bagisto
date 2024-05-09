@@ -11,7 +11,8 @@ return [
          * VendorA\ModuleX\Providers\ModuleServiceProvider::class,
          * VendorB\ModuleY\Providers\ModuleServiceProvider::class
          */
-        \Webkul\Admin\Providers\ModuleServiceProvider::class,
+        // \Webkul\Admin\Providers\ModuleServiceProvider::class,
+        \Webkul\Administration\Providers\ModuleServiceProvider::class,
         \Webkul\Attribute\Providers\ModuleServiceProvider::class,
         \Webkul\CartRule\Providers\ModuleServiceProvider::class,
         \Webkul\CatalogRule\Providers\ModuleServiceProvider::class,

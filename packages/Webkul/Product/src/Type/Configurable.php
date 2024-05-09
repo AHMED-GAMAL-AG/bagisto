@@ -3,7 +3,7 @@
 namespace Webkul\Product\Type;
 
 use Illuminate\Support\Str;
-use Webkul\Admin\Validations\ConfigurableUniqueSku;
+use Webkul\Administration\Validations\ConfigurableUniqueSku;
 use Webkul\Checkout\Models\CartItem as CartItemModel;
 use Webkul\Product\DataTypes\CartItemValidationResult;
 use Webkul\Product\Facades\ProductImage;
